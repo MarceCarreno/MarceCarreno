@@ -7,47 +7,34 @@ Después de años dedicándome a la ilustración digital y la diagramación edit
 💻 Actualmente aprendiendo
 
 HTML, CSS y JavaScript
-
 Diseño responsivo y accesible
-
 React (¡pronto!)
-
 Principios de UX/UI
-
 Fundamentos de videojuegos y arte digital interactivo
 
 🔧 Herramientas y tecnologías
 
 Figma / Canva / Photoshop
-
 Visual Studio Code
-
 Git y GitHub
-
 Java (fundamentos y lógica de programación)
-
 Ilustración digital con tableta gráfica
 
 🌱 Busco colaborar en
 
 Proyectos de sitios web con enfoque en salud mental, accesibilidad o educación
-
 Proyectos pequeños de videojuegos 2D o visual novels
-
 Iniciativas con mirada transfeminista, neurodivergente y/o no binaria
 
 🧠 Otras pasiones
 
 Anatomía humana (desde la ilustración científica)
-
 Cocina vegan 🌱
-
 Memes como medio de expresión cultural
 
-📫 Podés encontrarme en
+📫 Puedes encontrarme en
 
-Instagram (ilustración): @tuusuario
-
-LinkedIn: [tu-linkedin]
+Instagram (ilustración): @medusabisal
+LinkedIn: [https://www.linkedin.com/in/marcela-carre%C3%B1o-le%C3%B3n-099626366/details/education/]
 
 ¡Y por aquí en GitHub!
