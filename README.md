@@ -39,3 +39,6 @@ Instagram (ilustración): @medusabisal
 LinkedIn: https://www.linkedin.com/in/marcela-carre%C3%B1o-le%C3%B3n-099626366/details/education/
 
 ¡Y por aquí en GitHub!
+
+![image](https://github.com/user-attachments/assets/564a9bca-9466-407d-a263-ab665eb3343d)
+
