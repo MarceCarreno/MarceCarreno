@@ -35,6 +35,7 @@ Memes como medio de expresión cultural
 📫 Puedes encontrarme en
 
 Instagram (ilustración): @medusabisal
-LinkedIn: [https://www.linkedin.com/in/marcela-carre%C3%B1o-le%C3%B3n-099626366/details/education/]
+
+LinkedIn: https://www.linkedin.com/in/marcela-carre%C3%B1o-le%C3%B3n-099626366/details/education/
 
 ¡Y por aquí en GitHub!
