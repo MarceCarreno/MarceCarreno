@@ -1,16 +1,53 @@
-## Hi there 👋
+🖖 Hola, soy Marce 👾
+Diseñadore e ilustradore digital explorando el mundo del desarrollo web y los videojuegos.
 
-<!--
-**MarceCarreno/MarceCarreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 De las artes visuales al código
+Después de años dedicándome a la ilustración digital y la diagramación editorial, decidí expandir mi universo creativo a través del desarrollo front-end. Me encanta pensar en cómo unir diseño, interacción y accesibilidad para crear experiencias significativas en la web.
 
-Here are some ideas to get you started:
+💻 Actualmente aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML, CSS y JavaScript
+
+Diseño responsivo y accesible
+
+React (¡pronto!)
+
+Principios de UX/UI
+
+Fundamentos de videojuegos y arte digital interactivo
+
+🔧 Herramientas y tecnologías
+
+Figma / Canva / Photoshop
+
+Visual Studio Code
+
+Git y GitHub
+
+Java (fundamentos y lógica de programación)
+
+Ilustración digital con tableta gráfica
+
+🌱 Busco colaborar en
+
+Proyectos de sitios web con enfoque en salud mental, accesibilidad o educación
+
+Proyectos pequeños de videojuegos 2D o visual novels
+
+Iniciativas con mirada transfeminista, neurodivergente y/o no binaria
+
+🧠 Otras pasiones
+
+Anatomía humana (desde la ilustración científica)
+
+Cocina vegan 🌱
+
+Memes como medio de expresión cultural
+
+📫 Podés encontrarme en
+
+Instagram (ilustración): @tuusuario
+
+LinkedIn: [tu-linkedin]
+
+¡Y por aquí en GitHub!
