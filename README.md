@@ -1,45 +1,43 @@
-🖖 Hola, soy Marce 👾
+🖖 Hola, soy Marce
 
-Diseñadore e ilustradore digital explorando el mundo del desarrollo web y los videojuegos.
+Diseñadore e ilustradore digital en transición al desarrollo Front-End, con interés en unir arte, código y experiencias accesibles.
 
-🎨 De las artes visuales al código
-Después de años dedicándome a la ilustración digital y la diagramación editorial, decidí expandir mi universo creativo a través del desarrollo front-end. Me encanta pensar en cómo unir diseño, interacción y accesibilidad para crear experiencias significativas en la web.
+🎨 De lo visual al desarrollo
 
-💻 Actualmente aprendiendo
+Vengo de la ilustración digital y la diagramación editorial. Hoy aplico esa mirada estética y sensible al diseño web, enfocándome en interfaz, interacción y accesibilidad.
+
+🚀 Tecnologías
+
+
+(https://skillicons.dev/icons?i=js,html,css,figma,java,docker)](https://skillicons.dev)
 
 HTML, CSS y JavaScript
+
 Diseño responsivo y accesible
-React (¡pronto!)
-Principios de UX/UI
-Fundamentos de videojuegos y arte digital interactivo
 
-🔧 Herramientas y tecnologías
+Fundamentos de UX/UI
 
-Figma / Canva / Photoshop
+Java (lógica y estructuras)
+
+React (en proceso)
+
+🛠️ Herramientas
+
+Figma · Photoshop · Canva
+
 Visual Studio Code
-Git y GitHub
-Java (fundamentos y lógica de programación)
-Ilustración digital con tableta gráfica
 
-🌱 Busco colaborar en
+Git & GitHub
 
-Proyectos de sitios web con enfoque en salud mental, accesibilidad o educación
-Proyectos pequeños de videojuegos 2D o visual novels
-Iniciativas con mirada transfeminista, neurodivergente y/o no binaria
+Ilustración digital con tableta
 
-🧠 Otras pasiones
 
-Anatomía humana (desde la ilustración científica)
-Cocina vegan 🌱
-Memes como medio de expresión cultural
 
-📫 Puedes encontrarme en
+📫 Contacto
 
-Instagram (ilustración): @medusabisal https://www.instagram.com/medusabisal/
+- 🎨 Instagram: [@medusabisal](https://www.instagram.com/medusabisal/)
+- 💼 LinkedIn: [Marce Carreño](https://www.linkedin.com/in/marcela-carre%C3%B1o-le%C3%B3n-099626366/)
 
-LinkedIn: https://www.linkedin.com/in/marcela-carre%C3%B1o-le%C3%B3n-099626366/
 
-¡Y por aquí en GitHub!
-
-![image](https://github.com/user-attachments/assets/9997d10e-1821-43fa-a03b-4166885a2a65)
+✨ Gracias por pasar por mi GitHub
 
