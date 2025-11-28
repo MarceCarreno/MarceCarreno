@@ -9,7 +9,7 @@ Vengo de la ilustración digital y la diagramación editorial. Hoy aplico esa mi
 🚀 Tecnologías
 
 
-(https://skillicons.dev/icons?i=js,html,css,figma,java,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,java,docker)](https://skillicons.dev)
 
 HTML, CSS y JavaScript
 
